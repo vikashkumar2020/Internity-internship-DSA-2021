@@ -5,3 +5,5 @@ Everyday task completed during internship at Internity Foundation on Data Struct
 ** Day1 - Array **
 
 ** Day2 - Searching **
+
+** Day3 - sorting **
