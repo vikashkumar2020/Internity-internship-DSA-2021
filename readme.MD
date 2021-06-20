@@ -15,3 +15,5 @@ Everyday task completed during internship at Internity Foundation on Data Struct
 **Day6 - sorting and linked list**
 
 **Day7 - sorting and linked list**
+
+**Day8 - Stack**
