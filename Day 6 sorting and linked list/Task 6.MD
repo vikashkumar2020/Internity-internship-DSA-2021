@@ -4,5 +4,6 @@
 
 ### Questions on Sorting
 
-1. Detect cycle in a linked list
+1. Detect cycle in a linked list.
+
 2. Return the start of the cycle.
