@@ -14,7 +14,8 @@ void count_sort(int arr[], int n)
 
     int *frequencyArray = new int[max+1];
 
-memset(frequencyArray, 0, sizeof(frequencyArray));
+    for(int i=0;i<max+1;i++)
+    frequencyArray[i]=0;
 
 for(int i=0;i<n;i++)
 	{
