@@ -4,9 +4,9 @@
 
 ### Questions on TREE
 
-1. Left view of a Tree (gfg practice)
+1. Right view of a Tree (gfg practice)
 
-2. Right view of a Tree (gfg)
+2. Left view of a Tree (gfg)
 
 3. Top view of a Tree (gfg)
 
